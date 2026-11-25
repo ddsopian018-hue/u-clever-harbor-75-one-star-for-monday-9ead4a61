@@ -24,7 +24,7 @@ The line, and why it is built this way (the judge weighs, in order):
 import os
 
 LINE = (
-    "One star. Seated at 6 a.m., got cold coffee and a 9 a.m. meeting "
+    "One star. Seated at 6 a.m., served cold coffee and a 9 a.m. meeting "
     "that should have been an email. Paid with my whole weekend."
 )
 
